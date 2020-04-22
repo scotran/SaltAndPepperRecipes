@@ -4,6 +4,8 @@ __Salt and Pepper Recipes__ is Java based recipe program that allows users to ad
 and scale recipes. __Salt and Pepper Recipes__ uses __Java Swing__ for GUI and a text file and
 folder database system for storing recipes.
 
+![Program GUI Preview](https://github.com/NotTheBest/SaltAndPepperRecipes/blob/master/Images/ProgramGUI.png)
+
 ## Why a Recipe Program? :thinking:
 
 Cooking is one of my favorite hobbies, and I wanted to create something that would give a
